@@ -1,0 +1,14 @@
+D:\Cognizant\C#\Strategy Pattern\Strategydemo\bin\Debug\net8.0\Strategydemo.exe
+D:\Cognizant\C#\Strategy Pattern\Strategydemo\bin\Debug\net8.0\Strategydemo.deps.json
+D:\Cognizant\C#\Strategy Pattern\Strategydemo\bin\Debug\net8.0\Strategydemo.runtimeconfig.json
+D:\Cognizant\C#\Strategy Pattern\Strategydemo\bin\Debug\net8.0\Strategydemo.dll
+D:\Cognizant\C#\Strategy Pattern\Strategydemo\bin\Debug\net8.0\Strategydemo.pdb
+D:\Cognizant\C#\Strategy Pattern\Strategydemo\obj\Debug\net8.0\Strategydemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cognizant\C#\Strategy Pattern\Strategydemo\obj\Debug\net8.0\Strategydemo.AssemblyInfoInputs.cache
+D:\Cognizant\C#\Strategy Pattern\Strategydemo\obj\Debug\net8.0\Strategydemo.AssemblyInfo.cs
+D:\Cognizant\C#\Strategy Pattern\Strategydemo\obj\Debug\net8.0\Strategydemo.csproj.CoreCompileInputs.cache
+D:\Cognizant\C#\Strategy Pattern\Strategydemo\obj\Debug\net8.0\Strategydemo.dll
+D:\Cognizant\C#\Strategy Pattern\Strategydemo\obj\Debug\net8.0\refint\Strategydemo.dll
+D:\Cognizant\C#\Strategy Pattern\Strategydemo\obj\Debug\net8.0\Strategydemo.pdb
+D:\Cognizant\C#\Strategy Pattern\Strategydemo\obj\Debug\net8.0\Strategydemo.genruntimeconfig.cache
+D:\Cognizant\C#\Strategy Pattern\Strategydemo\obj\Debug\net8.0\ref\Strategydemo.dll

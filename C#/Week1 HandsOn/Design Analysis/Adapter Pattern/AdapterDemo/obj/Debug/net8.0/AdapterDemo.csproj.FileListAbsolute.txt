@@ -1,0 +1,14 @@
+D:\Cognizant\C#\Adapter Pattern\AdapterDemo\bin\Debug\net8.0\AdapterDemo.exe
+D:\Cognizant\C#\Adapter Pattern\AdapterDemo\bin\Debug\net8.0\AdapterDemo.deps.json
+D:\Cognizant\C#\Adapter Pattern\AdapterDemo\bin\Debug\net8.0\AdapterDemo.runtimeconfig.json
+D:\Cognizant\C#\Adapter Pattern\AdapterDemo\bin\Debug\net8.0\AdapterDemo.dll
+D:\Cognizant\C#\Adapter Pattern\AdapterDemo\bin\Debug\net8.0\AdapterDemo.pdb
+D:\Cognizant\C#\Adapter Pattern\AdapterDemo\obj\Debug\net8.0\AdapterDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cognizant\C#\Adapter Pattern\AdapterDemo\obj\Debug\net8.0\AdapterDemo.AssemblyInfoInputs.cache
+D:\Cognizant\C#\Adapter Pattern\AdapterDemo\obj\Debug\net8.0\AdapterDemo.AssemblyInfo.cs
+D:\Cognizant\C#\Adapter Pattern\AdapterDemo\obj\Debug\net8.0\AdapterDemo.csproj.CoreCompileInputs.cache
+D:\Cognizant\C#\Adapter Pattern\AdapterDemo\obj\Debug\net8.0\AdapterDemo.dll
+D:\Cognizant\C#\Adapter Pattern\AdapterDemo\obj\Debug\net8.0\refint\AdapterDemo.dll
+D:\Cognizant\C#\Adapter Pattern\AdapterDemo\obj\Debug\net8.0\AdapterDemo.pdb
+D:\Cognizant\C#\Adapter Pattern\AdapterDemo\obj\Debug\net8.0\AdapterDemo.genruntimeconfig.cache
+D:\Cognizant\C#\Adapter Pattern\AdapterDemo\obj\Debug\net8.0\ref\AdapterDemo.dll

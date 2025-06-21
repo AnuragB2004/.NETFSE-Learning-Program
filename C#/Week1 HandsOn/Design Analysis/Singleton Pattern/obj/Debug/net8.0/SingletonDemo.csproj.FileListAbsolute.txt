@@ -1,0 +1,14 @@
+D:\Cognizant\C#\Singleton Pattern\bin\Debug\net8.0\SingletonDemo.exe
+D:\Cognizant\C#\Singleton Pattern\bin\Debug\net8.0\SingletonDemo.deps.json
+D:\Cognizant\C#\Singleton Pattern\bin\Debug\net8.0\SingletonDemo.runtimeconfig.json
+D:\Cognizant\C#\Singleton Pattern\bin\Debug\net8.0\SingletonDemo.dll
+D:\Cognizant\C#\Singleton Pattern\bin\Debug\net8.0\SingletonDemo.pdb
+D:\Cognizant\C#\Singleton Pattern\obj\Debug\net8.0\SingletonDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cognizant\C#\Singleton Pattern\obj\Debug\net8.0\SingletonDemo.AssemblyInfoInputs.cache
+D:\Cognizant\C#\Singleton Pattern\obj\Debug\net8.0\SingletonDemo.AssemblyInfo.cs
+D:\Cognizant\C#\Singleton Pattern\obj\Debug\net8.0\SingletonDemo.csproj.CoreCompileInputs.cache
+D:\Cognizant\C#\Singleton Pattern\obj\Debug\net8.0\SingletonDemo.dll
+D:\Cognizant\C#\Singleton Pattern\obj\Debug\net8.0\refint\SingletonDemo.dll
+D:\Cognizant\C#\Singleton Pattern\obj\Debug\net8.0\SingletonDemo.pdb
+D:\Cognizant\C#\Singleton Pattern\obj\Debug\net8.0\SingletonDemo.genruntimeconfig.cache
+D:\Cognizant\C#\Singleton Pattern\obj\Debug\net8.0\ref\SingletonDemo.dll

@@ -1,0 +1,14 @@
+D:\Cognizant\C#\Command Pattern\Commanddemo\bin\Debug\net8.0\Commanddemo.exe
+D:\Cognizant\C#\Command Pattern\Commanddemo\bin\Debug\net8.0\Commanddemo.deps.json
+D:\Cognizant\C#\Command Pattern\Commanddemo\bin\Debug\net8.0\Commanddemo.runtimeconfig.json
+D:\Cognizant\C#\Command Pattern\Commanddemo\bin\Debug\net8.0\Commanddemo.dll
+D:\Cognizant\C#\Command Pattern\Commanddemo\bin\Debug\net8.0\Commanddemo.pdb
+D:\Cognizant\C#\Command Pattern\Commanddemo\obj\Debug\net8.0\Commanddemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cognizant\C#\Command Pattern\Commanddemo\obj\Debug\net8.0\Commanddemo.AssemblyInfoInputs.cache
+D:\Cognizant\C#\Command Pattern\Commanddemo\obj\Debug\net8.0\Commanddemo.AssemblyInfo.cs
+D:\Cognizant\C#\Command Pattern\Commanddemo\obj\Debug\net8.0\Commanddemo.csproj.CoreCompileInputs.cache
+D:\Cognizant\C#\Command Pattern\Commanddemo\obj\Debug\net8.0\Commanddemo.dll
+D:\Cognizant\C#\Command Pattern\Commanddemo\obj\Debug\net8.0\refint\Commanddemo.dll
+D:\Cognizant\C#\Command Pattern\Commanddemo\obj\Debug\net8.0\Commanddemo.pdb
+D:\Cognizant\C#\Command Pattern\Commanddemo\obj\Debug\net8.0\Commanddemo.genruntimeconfig.cache
+D:\Cognizant\C#\Command Pattern\Commanddemo\obj\Debug\net8.0\ref\Commanddemo.dll

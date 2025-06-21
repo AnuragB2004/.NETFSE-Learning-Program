@@ -1,0 +1,14 @@
+D:\Cognizant\C#\Builder Pattern\bin\Debug\net8.0\Builderdemo.exe
+D:\Cognizant\C#\Builder Pattern\bin\Debug\net8.0\Builderdemo.deps.json
+D:\Cognizant\C#\Builder Pattern\bin\Debug\net8.0\Builderdemo.runtimeconfig.json
+D:\Cognizant\C#\Builder Pattern\bin\Debug\net8.0\Builderdemo.dll
+D:\Cognizant\C#\Builder Pattern\bin\Debug\net8.0\Builderdemo.pdb
+D:\Cognizant\C#\Builder Pattern\obj\Debug\net8.0\Builderdemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cognizant\C#\Builder Pattern\obj\Debug\net8.0\Builderdemo.AssemblyInfoInputs.cache
+D:\Cognizant\C#\Builder Pattern\obj\Debug\net8.0\Builderdemo.AssemblyInfo.cs
+D:\Cognizant\C#\Builder Pattern\obj\Debug\net8.0\Builderdemo.csproj.CoreCompileInputs.cache
+D:\Cognizant\C#\Builder Pattern\obj\Debug\net8.0\Builderdemo.dll
+D:\Cognizant\C#\Builder Pattern\obj\Debug\net8.0\refint\Builderdemo.dll
+D:\Cognizant\C#\Builder Pattern\obj\Debug\net8.0\Builderdemo.pdb
+D:\Cognizant\C#\Builder Pattern\obj\Debug\net8.0\Builderdemo.genruntimeconfig.cache
+D:\Cognizant\C#\Builder Pattern\obj\Debug\net8.0\ref\Builderdemo.dll

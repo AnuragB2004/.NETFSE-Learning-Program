@@ -1,0 +1,14 @@
+D:\Cognizant\C#\Dependency Injection\Dependencydemo\obj\Debug\net8.0\Dependencydemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cognizant\C#\Dependency Injection\Dependencydemo\obj\Debug\net8.0\Dependencydemo.AssemblyInfoInputs.cache
+D:\Cognizant\C#\Dependency Injection\Dependencydemo\obj\Debug\net8.0\Dependencydemo.AssemblyInfo.cs
+D:\Cognizant\C#\Dependency Injection\Dependencydemo\obj\Debug\net8.0\Dependencydemo.csproj.CoreCompileInputs.cache
+D:\Cognizant\C#\Dependency Injection\Dependencydemo\bin\Debug\net8.0\Dependencydemo.exe
+D:\Cognizant\C#\Dependency Injection\Dependencydemo\bin\Debug\net8.0\Dependencydemo.deps.json
+D:\Cognizant\C#\Dependency Injection\Dependencydemo\bin\Debug\net8.0\Dependencydemo.runtimeconfig.json
+D:\Cognizant\C#\Dependency Injection\Dependencydemo\bin\Debug\net8.0\Dependencydemo.dll
+D:\Cognizant\C#\Dependency Injection\Dependencydemo\bin\Debug\net8.0\Dependencydemo.pdb
+D:\Cognizant\C#\Dependency Injection\Dependencydemo\obj\Debug\net8.0\Dependencydemo.dll
+D:\Cognizant\C#\Dependency Injection\Dependencydemo\obj\Debug\net8.0\refint\Dependencydemo.dll
+D:\Cognizant\C#\Dependency Injection\Dependencydemo\obj\Debug\net8.0\Dependencydemo.pdb
+D:\Cognizant\C#\Dependency Injection\Dependencydemo\obj\Debug\net8.0\Dependencydemo.genruntimeconfig.cache
+D:\Cognizant\C#\Dependency Injection\Dependencydemo\obj\Debug\net8.0\ref\Dependencydemo.dll

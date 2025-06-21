@@ -1,0 +1,14 @@
+D:\Cognizant\C#\Observer Pattern\Observerdemo\bin\Debug\net8.0\Observerdemo.exe
+D:\Cognizant\C#\Observer Pattern\Observerdemo\bin\Debug\net8.0\Observerdemo.deps.json
+D:\Cognizant\C#\Observer Pattern\Observerdemo\bin\Debug\net8.0\Observerdemo.runtimeconfig.json
+D:\Cognizant\C#\Observer Pattern\Observerdemo\bin\Debug\net8.0\Observerdemo.dll
+D:\Cognizant\C#\Observer Pattern\Observerdemo\bin\Debug\net8.0\Observerdemo.pdb
+D:\Cognizant\C#\Observer Pattern\Observerdemo\obj\Debug\net8.0\Observerdemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cognizant\C#\Observer Pattern\Observerdemo\obj\Debug\net8.0\Observerdemo.AssemblyInfoInputs.cache
+D:\Cognizant\C#\Observer Pattern\Observerdemo\obj\Debug\net8.0\Observerdemo.AssemblyInfo.cs
+D:\Cognizant\C#\Observer Pattern\Observerdemo\obj\Debug\net8.0\Observerdemo.csproj.CoreCompileInputs.cache
+D:\Cognizant\C#\Observer Pattern\Observerdemo\obj\Debug\net8.0\Observerdemo.dll
+D:\Cognizant\C#\Observer Pattern\Observerdemo\obj\Debug\net8.0\refint\Observerdemo.dll
+D:\Cognizant\C#\Observer Pattern\Observerdemo\obj\Debug\net8.0\Observerdemo.pdb
+D:\Cognizant\C#\Observer Pattern\Observerdemo\obj\Debug\net8.0\Observerdemo.genruntimeconfig.cache
+D:\Cognizant\C#\Observer Pattern\Observerdemo\obj\Debug\net8.0\ref\Observerdemo.dll

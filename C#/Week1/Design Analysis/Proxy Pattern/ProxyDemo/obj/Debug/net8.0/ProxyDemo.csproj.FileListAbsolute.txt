@@ -1,0 +1,14 @@
+D:\Cognizant\C#\Proxy Pattern\ProxyDemo\bin\Debug\net8.0\ProxyDemo.exe
+D:\Cognizant\C#\Proxy Pattern\ProxyDemo\bin\Debug\net8.0\ProxyDemo.deps.json
+D:\Cognizant\C#\Proxy Pattern\ProxyDemo\bin\Debug\net8.0\ProxyDemo.runtimeconfig.json
+D:\Cognizant\C#\Proxy Pattern\ProxyDemo\bin\Debug\net8.0\ProxyDemo.dll
+D:\Cognizant\C#\Proxy Pattern\ProxyDemo\bin\Debug\net8.0\ProxyDemo.pdb
+D:\Cognizant\C#\Proxy Pattern\ProxyDemo\obj\Debug\net8.0\ProxyDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cognizant\C#\Proxy Pattern\ProxyDemo\obj\Debug\net8.0\ProxyDemo.AssemblyInfoInputs.cache
+D:\Cognizant\C#\Proxy Pattern\ProxyDemo\obj\Debug\net8.0\ProxyDemo.AssemblyInfo.cs
+D:\Cognizant\C#\Proxy Pattern\ProxyDemo\obj\Debug\net8.0\ProxyDemo.csproj.CoreCompileInputs.cache
+D:\Cognizant\C#\Proxy Pattern\ProxyDemo\obj\Debug\net8.0\ProxyDemo.dll
+D:\Cognizant\C#\Proxy Pattern\ProxyDemo\obj\Debug\net8.0\refint\ProxyDemo.dll
+D:\Cognizant\C#\Proxy Pattern\ProxyDemo\obj\Debug\net8.0\ProxyDemo.pdb
+D:\Cognizant\C#\Proxy Pattern\ProxyDemo\obj\Debug\net8.0\ProxyDemo.genruntimeconfig.cache
+D:\Cognizant\C#\Proxy Pattern\ProxyDemo\obj\Debug\net8.0\ref\ProxyDemo.dll
